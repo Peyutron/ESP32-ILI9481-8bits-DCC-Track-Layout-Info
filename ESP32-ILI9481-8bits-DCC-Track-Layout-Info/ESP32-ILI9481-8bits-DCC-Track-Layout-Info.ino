@@ -3,7 +3,7 @@
   * Project instructions: 
   *  - http://lamaquetade.infotronikblog.com/
   *  
-  * Project repository:  https://github.com/Peyutron
+  * Project repository:  https://github.com/Peyutron/ESP32-ILI9481-8bits-DCC-Track-Layout-Info
   * Creator: Carlos MC
   *
   * External Library:
