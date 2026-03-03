@@ -12,7 +12,7 @@
   * ESP32 Library:
   *  - WiFi:           https://github.com/espressif/arduino-esp32/blob/master/libraries/WiFi/src/WiFi.h
   * 
-  * Board -> DOIT ESP32C3 Dev Module
+  * Board -> DOIT ESP32 Dev Module
   * CPU Frequency 80MHz
   * Display -> ILI9481 8 Bits no touch
   * - User_Setups/User_Setup_Select.h
