@@ -1,0 +1,1 @@
+<img src="https://github.com/Peyutron/ESP32-ILI9481-8bits-DCC-Track-Layout-Info/blob/main/ESP32-ILI9481-8bits-DCC-Track-Layout-Info/Images/DCC-monitor-tft-ili9481-8bits-ESP32-01-450.png" alt="Monitor DCC TFT 8bits paralelos" title="Monitor DCC TFT 8bits paralelos" />
